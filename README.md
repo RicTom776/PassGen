@@ -26,7 +26,7 @@ in the folder you have kept **passgen.py** file. This will show you something li
 
 ![269279325_306995734648453_8867974016447169915_n](https://user-images.githubusercontent.com/76998773/152578716-72647a48-512a-4538-820d-9a151800bbac.jpg)
 
-Now enter the desired password type, *kaboom!*. You have successfully generated your first password!
+Now enter the desired password type, and *kaboom!*. You have successfully generated your first password!
 
 # Credits
 All to Hassan Malik (myself). In social media I only use Instagram:
