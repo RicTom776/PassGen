@@ -1,5 +1,5 @@
 # PassGen
-PassGen helps you make the best and most secured passwords that will never get hacked/cracked. PassGen also creates seperate files for different kinds of passwords. Such as weak passwords, decent passwords, and strong passwords! The tool is very simple to use and really efficient. I hope you like it.
+**PassGen** helps you make the best and most **secured passwords** that will never get hacked/cracked. PassGen also creates **seperate files** for different kinds of passwords. Such as **weak passwords, decent passwords, and strong passwords**! The tool is very simple to use and really efficient. I hope you like it.
 
 # Screenshots
 Here's a screenshot for how it looks like when you use it. And how the UI looks like:
