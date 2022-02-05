@@ -62,6 +62,6 @@ def all():
         exit
     else:
         print("Kindly select the right gen type!")
-        os.system("python3 passgen.py")
+        all()
 
 all()
