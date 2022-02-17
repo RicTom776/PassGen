@@ -11,7 +11,7 @@ Here are the saved password lists:
 ![269279325_306995734648453_8867974016447169915_n](https://user-images.githubusercontent.com/76998773/152576253-acbf4b3c-c06e-443a-a88c-8f2894ef6136.jpg)
 
 # Download
-You simple use **git** to download the tool. Enter the following command in the terminal or CMD:
+You simply use **git** to download the tool. Enter the following command in the terminal or CMD:
 
 `git clone https://github.com/RicTom776/PassGen.git`
 
