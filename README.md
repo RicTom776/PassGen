@@ -31,5 +31,7 @@ Now enter the desired password type, and *kaboom!*. You have successfully genera
 # Credits
 All to Hassan Malik (myself). In social media I only use Instagram:
 https://www.instagram.com/hassanbashir608/
+And Discord:
+Monjirou#7375
 
 Thanks for using this tool!
