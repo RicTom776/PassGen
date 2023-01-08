@@ -30,8 +30,8 @@ Now enter the desired password type, and *kaboom!*. You have successfully genera
 
 # Credits
 All to Hassan Malik (myself). In social media I only use Instagram:
-https://www.instagram.com/hassanbashir608/
+https://www.instagram.com/f3tching.skills/
 And Discord:
-Monjirou#7375
+!  [f3tch]#7375
 
 Thanks for using this tool!
