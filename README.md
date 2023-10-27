@@ -29,9 +29,9 @@ in the folder you have kept **passgen.py** file. This will show you something li
 Now enter the desired password type, and *kaboom!*. You have successfully generated your first password!
 
 # Credits
-All to Hassan Malik (myself). In social media I only use Instagram:
-https://www.instagram.com/f3tching.skills/
+All to Hassan Bashir (myself). In social media I only use Instagram:
+[@f3tch.169](https://www.instagram.com/f3tch.169/)
 And Discord:
-!  [f3tch]#7375
+f3tch
 
 Thanks for using this tool!
